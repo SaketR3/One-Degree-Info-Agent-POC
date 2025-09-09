@@ -1,0 +1,8 @@
+langchain
+langchain-community
+playwright
+pandas
+openai
+python-dotenv
+beautifulsoup4
+lxml          
